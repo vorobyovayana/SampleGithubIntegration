@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lec3Demo</string>
+    <string name="txtTitle">Weight Converter</string>
+    <string name="txtInputWtHint">Enter the input weight</string>
+    <string name="radBtnLBsToKgs">Convert Pounds to Kilograms</string>
+    <string name="radBtnKgsToLbs">Convert Kilograms to Pounds</string>
+    <string name="txtConvertWt">Convert Weight</string>
+</resources>
